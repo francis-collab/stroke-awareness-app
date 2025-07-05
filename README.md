@@ -6,7 +6,7 @@ This is a fully responsive **React.js** web application built to educate users a
 
 ## 📸 Live Demo
 
-🌐 [https://yourusername.github.io/stroke-awareness-react](https://yourusername.github.io/stroke-awareness-react)
+🌐 [https://francis-collab.github.io/stroke-awareness-react/](https://francis-collab.github.io/stroke-awareness-react)
 
 ---
 
