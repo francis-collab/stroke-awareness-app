@@ -1,8 +1,8 @@
 {
-  "name": "stroke-awareness-react",
+  "name": "stroke-awareness-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/stroke-awareness-react",
+  "homepage": "https://francis-collab.github.io/stroke-awareness-app",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
