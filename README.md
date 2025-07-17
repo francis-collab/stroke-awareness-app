@@ -1,6 +1,6 @@
 # 🧠 Stroke Awareness Hub — React App
 
-This is a fully responsive **React.js** web application built to educate users about **Stroke**: its symptoms, prevention, and treatment. The site uses modern frontend tools including **TailwindCSS** and **React Router** for a seamless user experience.
+This is a fully responsive **React.js** web application built to educate users about **Stroke**: its symptoms, prevention, and treatment. The site uses modern frontend tools including **TailwindCSS** and **React Router** for a seamless user experience. Enjoy the app!
 
 ---
 
